@@ -13,6 +13,6 @@ Currently, there are 2 methods to interact with this API:
 }
 ```
 
-For appropriately formatted payloads or parameters, these requests should return 200/201 respectively.
+For appropriately formatted payloads or parameters, these requests should return 200/201 respectively. Feel free to kick the tires on the [demo](https://change-api.herokuapp.com/).
 
-Hope you find this useful! Get at me with any questions by [opening an issue](https://github.com/dbelling/change-api/issues) here, or emailing me at [danhbelling@gmail.com](mailto:danhbelling@gmail.com)
+Hope you find this useful! Get at me with any questions by [opening an issue](https://github.com/dbelling/change-api/issues) here, or emailing me at [danhbelling@gmail.com](mailto:danhbelling@gmail.com).
